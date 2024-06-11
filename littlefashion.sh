@@ -1,4 +1,4 @@
-URL=https://www.tooplate.com/zip-templates/2127_little_fashion.zip
+URL=help
      FILE=2127_little_fashion
      sudo yum install httpd unzip wget -y
      sudo systemctl start httpd
