@@ -1,4 +1,4 @@
-URL=help
+     URL=2127_little_fashion
      FILE=2127_little_fashion
      sudo yum install httpd unzip wget -y
      sudo systemctl start httpd
