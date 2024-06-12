@@ -1,5 +1,5 @@
-     URL=https://www.tooplate.com/zip-templates/2106_soft_landing.zip
-     FILE=2106_soft_landing
+     URL=https://www.tooplate.com/zip-templates/2118_chilling_cafe.zip
+     FILE=2118_chilling_cafe
      sudo yum install httpd unzip wget -y
      sudo systemctl start httpd
       mkdir -p /home/centos/webfiles
