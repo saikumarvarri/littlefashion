@@ -1,5 +1,5 @@
-     URL=2127_little_fashion
-     FILE=2127_little_fashion
+     URL=https://www.tooplate.com/zip-templates/2106_soft_landing.zip
+     FILE=2106_soft_landing
      sudo yum install httpd unzip wget -y
      sudo systemctl start httpd
       mkdir -p /home/centos/webfiles
