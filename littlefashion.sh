@@ -1,5 +1,5 @@
-     URL=https://www.tooplate.com/zip-templates/2118_chilling_cafe.zip
-     FILE=2118_chilling_cafe
+     URL=https://www.tooplate.com/zip-templates/2020/templatemo_520_highway.zip
+     FILE=templatemo_520_highway
      sudo yum install httpd unzip wget -y
      sudo systemctl start httpd
       mkdir -p /home/centos/webfiles
